@@ -66,10 +66,10 @@ echo -e ""$GN"["$RS"+"$GN"]"$CE" Installing dependencies..."$C""
 sleep 1
 
 {
-pkg update
-pkg -y install git
-pkg -y install python
-pkg -y install android-tools
+pkg update && pkg upgrade -y
+pkg install git -y
+pkg install python -y
+pkg install android-tools -y
 apt-get update
 apt-get -y install git
 apt-get -y install python3
