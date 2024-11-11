@@ -1,7 +1,7 @@
-# Ghost Framework
+# Nun.As Framework
 
 
-```
+
       .-.
     .'   `.
     :0 0  :
@@ -16,7 +16,7 @@
          `.              `.     
            `'`'`'`---..,___`.
 
-```
+
 
 
 
@@ -24,8 +24,8 @@
 
 # About
 
-    Ghost Framework is an Android post-exploitation framework that uses an
-    Android Debug Bridge to remotely access an Android device. Ghost Framework 
+    Nun Framework is an Android post-exploitation framework that uses an
+    Android Debug Bridge to remotely access an Android device. Nun Framework 
     gives you the power and convenience of remote Android device administration.
     
 ***
@@ -94,7 +94,7 @@ sudo ./uninstall.sh
 
 ***
 
-# Why Ghost Framework
+# Why Nun Framework
 
  * Simple and clear UX/UI.
 ```
@@ -117,7 +117,7 @@ device shell without using OpenSSH or other protocols.
 
 ***
 
-# Ghost Framework disclaimer
+# Nun Framework disclaimer
 
     Usage of the Ghost Framework for attacking targets without prior mutual consent is illegal. 
     It is the end user's responsibility to obey all applicable local, state, federal, and international laws. 
@@ -125,11 +125,11 @@ device shell without using OpenSSH or other protocols.
     
 ***
 
-# Ghost Framework license
+# Nun Framework license
 
 ```
     ---------------------------------------------------
-                      Ghost Framework                                                                         
+                      Nun Framework                                                                         
     ---------------------------------------------------
         Copyright (C) <2019-2020>  <Entynetproject>
 
